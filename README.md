@@ -1,5 +1,13 @@
 # Hi, I'm Wenxuan Xie!
-# Student at RPI, Electrical Computer System Engineering and Computer Science Dual Major Student
+## I'm a student at RPI, a Electrical Computer System Engineering and Computer Science Dual Major Student.
+
+## Projects
+
+### Computer Systems Projects
+  * [Oxygen Sensor](https://github.com/xayin212/Oxygen-Sensor.git)
+
+
+
 
 
 
