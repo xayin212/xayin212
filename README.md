@@ -1,5 +1,8 @@
 # Hi, I'm Wenxuan Xie!
-## I'm a student at RPI, a Electrical Computer System Engineering and Computer Science Dual Major Student.
+
+I'm a student at RPI, a Electrical Computer System Engineering and Computer Science Dual Major Student. I've worked on a few projects while here with some small teams utilizing both of my backgrounds. I have experience in LTSpice, LogicWorks 5, MatLab, as well as working knowledge in Java, C/C++, Python, MIPS32/64. Currently learning more SystemVerilog.
+
+[My Linkedin](https://www.linkedin.com/in/wxie2003/)
 
 ## Projects
 
