@@ -3,7 +3,7 @@
 
 ## Projects
 
-### Computer Systems Projects
+### Electrical Systems/Computer Systems Projects
   * [Oxygen Sensor](https://github.com/xayin212/Oxygen-Sensor.git)
 
 
