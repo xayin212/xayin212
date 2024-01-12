@@ -10,6 +10,7 @@ I'm a student at RPI, a Electrical Computer System Engineering and Computer Scie
   * [Oxygen Sensor](https://github.com/xayin212/Oxygen-Sensor.git)
   * [Maze Solver](https://github.com/xayin212/Maze-Solver-Robot.git)
   * [Hydroplant Terrarium](https://github.com/xayin212/Hydroplant-Terrarium.git)
+  * [RISCV Processor](https://github.com/xayin212/riscv_processor)
 
 
 
